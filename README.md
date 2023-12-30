@@ -1,1 +1,2 @@
 # Movie_Searcher
+</hr>
